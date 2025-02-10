@@ -6,6 +6,7 @@ mod platform;
 mod pickup;
 mod killzone;
 mod enemy;
+mod gamemanager;
 
 struct KnightPlatformer;
 
