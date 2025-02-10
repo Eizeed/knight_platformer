@@ -4,6 +4,8 @@ mod game;
 mod player;
 mod platform;
 mod pickup;
+mod killzone;
+mod enemy;
 
 struct KnightPlatformer;
 
